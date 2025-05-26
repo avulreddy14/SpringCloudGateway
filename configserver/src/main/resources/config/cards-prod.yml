@@ -1,0 +1,11 @@
+build:
+  version: "2.0"
+
+cards:
+  message: "Welcome to EazyBank cards related prod APIs "
+  contactDetails:
+    name: "Cherryl Pankaj - prod Lead"
+    email: "cherryl@prod.com"
+  onCallSupport:
+    - (310) 875-4367
+    - (201) 236-1267
